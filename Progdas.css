@@ -142,6 +142,11 @@ body {
   text-align: justify;
 }
 
+/* Utility: justify text without changing font */
+.text-justify {
+        text-align: justify;
+}
+
 
 /* Contact Page */
 .contact-page {
